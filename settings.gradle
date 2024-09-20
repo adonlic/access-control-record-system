@@ -1,3 +1,4 @@
 rootProject.name = 'access-control-record-system'
-include 'wiegand-lib'
+include 'uhppote-lib'
+include 'web'
 
